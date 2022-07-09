@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **headsmasher8557/headsmasher8557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi! 👋
+- I'm an average programmer. I mainly do [Lua](https://www.lua.org/), but I also do [Python](https://www.python.org/).
+- I prefer they/them, but I don't really care if you call me anything else.
+- I’m currently learning [Haxe](https://haxe.org/) and [Luau](https://luau-lang.org/).
+- If you need to contact me, feel free to DM me via Discord or message me on Roblox.
+
+[![discord](https://img.shields.io/badge/head__smasher%238557-blue?logo=discord&logoColor=white)](https://discordapp.com/users/177131156028784640)
+[![roblox](https://img.shields.io/badge/TPoseTShirtTSeries-red?logo=roblox&logoColor=white)](https://www.roblox.com/users/1097331742/profile)
