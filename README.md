@@ -4,6 +4,9 @@ Hello! My name is Riley, also known as head_smasher or [TPose](https://www.roblo
 
 Currently, at the time of writing this, I am 15 years old. My birthday is on the 18th of March, so feel free to celebrate if you'd like!
 
+Also, I started writing a blog recently!
+<https://headsmasher8557.github.io/blog/>
+
 ## My Socials
 
 * Discord: [head_smasher#8557](https://discord.com/users/508262470117228545)
