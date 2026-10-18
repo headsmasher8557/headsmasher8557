@@ -8,3 +8,11 @@ general computing enthusiast learning interface and visual design, webdev and sy
 - [QML](https://doc.qt.io/qt-6/qmlapplications.html) via [Quickshell](https://quickshell.org) - really love it but the lsp has its moments sometimes
 - [Lua](https://www.lua.org) (via [LÖVE](https://love2d.org)) - great for prototyping
 - [Lua](https://www.lua.org) (via [Neovim](https://neovim.io)) - love extensible editors and keyboard-driven design
+
+---
+### some of my work
+![workspace showcase](assets/showcase/workspaces.gif)
+
+*very simple quickshell workspace widget. i think the background shapes add a lot of flair!*
+
+---
