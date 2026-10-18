@@ -9,10 +9,13 @@ general computing enthusiast learning interface and visual design, webdev and sy
 - [Lua](https://www.lua.org) (via [LÖVE](https://love2d.org)) - great for prototyping
 - [Lua](https://www.lua.org) (via [Neovim](https://neovim.io)) - love extensible editors and keyboard-driven design
 
----
-### some of my work
+## some of my work
 ![workspace showcase](assets/showcase/workspaces.gif)
 
 *very simple quickshell workspace widget. i think the background shapes add a lot of flair!*
+
+![old waybar showcase](assets/showcase/waybar.png)
+
+*old waybar config. i still think it looks really clean; im even still daily driving it until i finish adapting it to quickshell (notice how similar the workspaces are)*
 
 ---
