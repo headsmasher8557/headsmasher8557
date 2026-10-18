@@ -16,6 +16,6 @@ general computing enthusiast learning interface and visual design, webdev and sy
 
 ![old waybar showcase](assets/showcase/waybar.png)
 
-*old waybar config. i still think it looks really clean; im even still daily driving it until i finish adapting it to quickshell (notice how similar the workspaces are)*
+*old waybar config. i think it looks really clean; im even still dailydriving it until i finish adapting it to quickshell (notice how similar the workspaces are)*
 
 ---
